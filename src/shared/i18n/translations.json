@@ -1,0 +1,954 @@
+{
+  "Kinoteatrlar": {
+    "EN": "Cinemas",
+    "RU": "Кинотеатры"
+  },
+  "Kinoteatr": {
+    "EN": "Cinema",
+    "RU": "Кинотеатр"
+  },
+  "Aksiyalar": {
+    "EN": "Promotions",
+    "RU": "Акции"
+  },
+  "Əlaqə": {
+    "EN": "Contact",
+    "RU": "Контакты"
+  },
+  "Profil": {
+    "EN": "Profile",
+    "RU": "Профиль"
+  },
+  "Hüquqi Şərtlər": {
+    "EN": "Terms and conditions",
+    "RU": "Правила и условия"
+  },
+  "Məxfilik Siyasəti": {
+    "EN": "Privacy policy",
+    "RU": "Политика конфиденциальности"
+  },
+  "Bizi izləyin": {
+    "EN": "Follow us",
+    "RU": "Следите за нами"
+  },
+  "Mənim Biletim": {
+    "EN": "My ticket",
+    "RU": "Мой билет"
+  },
+  "Menyunu bağla": {
+    "EN": "Close menu",
+    "RU": "Закрыть меню"
+  },
+  "Menyunu aç": {
+    "EN": "Open menu",
+    "RU": "Открыть меню"
+  },
+  "Park Cinema ana səhifə": {
+    "EN": "Park Cinema home",
+    "RU": "Главная Park Cinema"
+  },
+  "Hamısı": {
+    "EN": "All",
+    "RU": "Все"
+  },
+  "Tezliklə": {
+    "EN": "Coming soon",
+    "RU": "Скоро"
+  },
+  "Cədvəl": {
+    "EN": "Schedule",
+    "RU": "Расписание"
+  },
+  "Siyahı": {
+    "EN": "List",
+    "RU": "Список"
+  },
+  "Treylerlər": {
+    "EN": "Trailers",
+    "RU": "Трейлеры"
+  },
+  "Dil": {
+    "EN": "Language",
+    "RU": "Язык"
+  },
+  "Dil:": {
+    "EN": "Language:",
+    "RU": "Язык:"
+  },
+  "Kinoteatr:": {
+    "EN": "Cinema:",
+    "RU": "Кинотеатр:"
+  },
+  "Təmizlə": {
+    "EN": "Clear",
+    "RU": "Очистить"
+  },
+  "Bugün": {
+    "EN": "Today",
+    "RU": "Сегодня"
+  },
+  "Tarix seç": {
+    "EN": "Select date",
+    "RU": "Выберите дату"
+  },
+  "Seans tarixləri": {
+    "EN": "Screening dates",
+    "RU": "Даты сеансов"
+  },
+  "Əvvəlki tarixlər": {
+    "EN": "Previous dates",
+    "RU": "Предыдущие даты"
+  },
+  "Növbəti tarixlər": {
+    "EN": "Next dates",
+    "RU": "Следующие даты"
+  },
+  "Öncədən satış": {
+    "EN": "Presale",
+    "RU": "Предпродажа"
+  },
+  "Film afişaları": {
+    "EN": "Movie banners",
+    "RU": "Афиши фильмов"
+  },
+  "Növbəti afişa": {
+    "EN": "Next banner",
+    "RU": "Следующая афиша"
+  },
+  "Filtrləri təmizlə": {
+    "EN": "Clear filters",
+    "RU": "Сбросить фильтры"
+  },
+  "Film tapılmadı": {
+    "EN": "Movie not found",
+    "RU": "Фильм не найден"
+  },
+  "Tezliklə nümayiş olunacaq film tapılmadı": {
+    "EN": "No upcoming movies found",
+    "RU": "Скоро выходящих фильмов не найдено"
+  },
+  "Filtrləri təmizləyin və ya başqa tarix seçin.": {
+    "EN": "Clear the filters or select another date.",
+    "RU": "Сбросьте фильтры или выберите другую дату."
+  },
+  "Hazırda bu bölmədə film yoxdur.": {
+    "EN": "There are no movies in this section yet.",
+    "RU": "В этом разделе пока нет фильмов."
+  },
+  "Uyğun seans yoxdur": {
+    "EN": "No matching screenings",
+    "RU": "Подходящих сеансов нет"
+  },
+  "Başqa tarix seçin və ya dil və kinoteatr filtrlərini təmizləyin.": {
+    "EN": "Select another date or clear the language and cinema filters.",
+    "RU": "Выберите другую дату или сбросьте фильтры языка и кинотеатра."
+  },
+  "Kinoteatr və zal": {
+    "EN": "Cinema and hall",
+    "RU": "Кинотеатр и зал"
+  },
+  "Format və dil": {
+    "EN": "Format and language",
+    "RU": "Формат и язык"
+  },
+  "Altyazı": {
+    "EN": "Subtitles",
+    "RU": "Субтитры"
+  },
+  "Altyazı yoxdur": {
+    "EN": "No subtitles",
+    "RU": "Без субтитров"
+  },
+  "sub": {
+    "EN": "sub",
+    "RU": "суб"
+  },
+  "yoxdur": {
+    "EN": "none",
+    "RU": "нет"
+  },
+  "Hazırda bu seçim üçün seans məlumatı mövcud deyil.": {
+    "EN": "No screening information is available for this selection.",
+    "RU": "Для этого выбора информация о сеансах отсутствует."
+  },
+  "Müddət:": {
+    "EN": "Duration:",
+    "RU": "Продолжительность:"
+  },
+  "Janr:": {
+    "EN": "Genre:",
+    "RU": "Жанр:"
+  },
+  "İl:": {
+    "EN": "Year:",
+    "RU": "Год:"
+  },
+  "Ölkə:": {
+    "EN": "Country:",
+    "RU": "Страна:"
+  },
+  "Rejissor:": {
+    "EN": "Director:",
+    "RU": "Режиссёр:"
+  },
+  "Aktyorlar:": {
+    "EN": "Cast:",
+    "RU": "Актёры:"
+  },
+  "Yaş həddi:": {
+    "EN": "Age rating:",
+    "RU": "Возрастное ограничение:"
+  },
+  "Yaş Həddi:": {
+    "EN": "Age rating:",
+    "RU": "Возрастное ограничение:"
+  },
+  "Nümayiş tarixi:": {
+    "EN": "Release date:",
+    "RU": "Дата выхода:"
+  },
+  "Nümayiş Tarixi:": {
+    "EN": "Release date:",
+    "RU": "Дата выхода:"
+  },
+  "Məlumat yoxdur": {
+    "EN": "Not available",
+    "RU": "Нет данных"
+  },
+  "Bu film haqqında ətraflı məlumat hələ təqdim edilməyib.": {
+    "EN": "Details about this movie are not available yet.",
+    "RU": "Подробная информация об этом фильме пока недоступна."
+  },
+  "Treyler mövcud deyil": {
+    "EN": "Trailer unavailable",
+    "RU": "Трейлер недоступен"
+  },
+  "Seans məlumatı mövcud deyil": {
+    "EN": "Screening information unavailable",
+    "RU": "Информация о сеансах недоступна"
+  },
+  "Bu film üçün layihənin API-sində seans təqdim edilməyib.": {
+    "EN": "The project API provides no screenings for this movie.",
+    "RU": "API проекта не предоставляет сеансы для этого фильма."
+  },
+  "Filmlərə qayıt": {
+    "EN": "Back to movies",
+    "RU": "Вернуться к фильмам"
+  },
+  "Bu film artıq siyahıda yoxdur. Başqa film seçə bilərsiniz.": {
+    "EN": "This movie is no longer listed. Please select another movie.",
+    "RU": "Этого фильма больше нет в списке. Выберите другой фильм."
+  },
+  "Film görünüşü": {
+    "EN": "Movie view",
+    "RU": "Вид фильма"
+  },
+  "Qısa məlumat": {
+    "EN": "Overview",
+    "RU": "Описание"
+  },
+  "Treyler tapılmadı": {
+    "EN": "Trailer not found",
+    "RU": "Трейлер не найден"
+  },
+  "Hazırda göstəriləcək treyler yoxdur.": {
+    "EN": "There are no trailers to show yet.",
+    "RU": "Пока нет трейлеров для показа."
+  },
+  "Oturacaq Seçimi": {
+    "EN": "Seat selection",
+    "RU": "Выбор мест"
+  },
+  "Mövcuddur": {
+    "EN": "Available",
+    "RU": "Свободно"
+  },
+  "Tutulmuş": {
+    "EN": "Occupied",
+    "RU": "Занято"
+  },
+  "Seçilmiş": {
+    "EN": "Selected",
+    "RU": "Выбрано"
+  },
+  "SIRA": {
+    "EN": "ROW",
+    "RU": "РЯД"
+  },
+  "Sıra": {
+    "EN": "Row",
+    "RU": "Ряд"
+  },
+  ", Yer": {
+    "EN": ", Seat",
+    "RU": ", Место"
+  },
+  "yer": {
+    "EN": "seats",
+    "RU": "мест"
+  },
+  "Zal:": {
+    "EN": "Hall:",
+    "RU": "Зал:"
+  },
+  "Ekran": {
+    "EN": "Screen",
+    "RU": "Экран"
+  },
+  "Zalı böyüt": {
+    "EN": "Zoom in",
+    "RU": "Увеличить"
+  },
+  "Zalı kiçilt": {
+    "EN": "Zoom out",
+    "RU": "Уменьшить"
+  },
+  "Oturacaq xəritəsi": {
+    "EN": "Seat map",
+    "RU": "Схема зала"
+  },
+  "Bağla": {
+    "EN": "Close",
+    "RU": "Закрыть"
+  },
+  "Böyük": {
+    "EN": "Adult",
+    "RU": "Взрослый"
+  },
+  "Uşaq": {
+    "EN": "Child",
+    "RU": "Детский"
+  },
+  "Ailə": {
+    "EN": "Family",
+    "RU": "Семейный"
+  },
+  "Bilet Al": {
+    "EN": "Buy ticket",
+    "RU": "Купить билет"
+  },
+  "Bilet almaq üçün oturacaq seçin.": {
+    "EN": "Select a seat to buy a ticket.",
+    "RU": "Выберите место для покупки билета."
+  },
+  "Zəhmət olmasa oturacaq seçin": {
+    "EN": "Please select a seat",
+    "RU": "Пожалуйста, выберите место"
+  },
+  "Ödəniş": {
+    "EN": "Payment",
+    "RU": "Оплата"
+  },
+  "Ödənişə Keç": {
+    "EN": "Proceed to payment",
+    "RU": "Перейти к оплате"
+  },
+  "Ümumi:": {
+    "EN": "Total:",
+    "RU": "Итого:"
+  },
+  "Mən": {
+    "EN": "I",
+    "RU": "Я"
+  },
+  "Qaydaları və Şərtləri": {
+    "EN": "Terms and Conditions",
+    "RU": "Правила и условия"
+  },
+  "oxudum və razıyam": {
+    "EN": "have read and agree",
+    "RU": "прочитал(а) и принимаю"
+  },
+  "Qaydalar və şərtlər": {
+    "EN": "Terms and conditions",
+    "RU": "Правила и условия"
+  },
+  "Pəncərəni bağla": {
+    "EN": "Close dialog",
+    "RU": "Закрыть окно"
+  },
+  "Kinoteatrda qaydalar və qadağalar": {
+    "EN": "Cinema rules and restrictions",
+    "RU": "Правила и запреты в кинотеатре"
+  },
+  "Davam etmək üçün şərtlərlə razılaşın.": {
+    "EN": "Please accept the terms to continue.",
+    "RU": "Примите условия, чтобы продолжить."
+  },
+  "Düzgün e-poçt ünvanı daxil edin.": {
+    "EN": "Enter a valid email address.",
+    "RU": "Введите корректный адрес электронной почты."
+  },
+  "Telefon nömrəsini tam daxil edin: +994 və 9 rəqəm.": {
+    "EN": "Enter a complete phone number: +994 and 9 digits.",
+    "RU": "Введите полный номер телефона: +994 и 9 цифр."
+  },
+  "Ödənişiniz uğurla həyata keçdi": {
+    "EN": "Your payment was successful",
+    "RU": "Оплата прошла успешно"
+  },
+  "Məlumatları yadda saxlamaq mümkün olmadı. Yenidən cəhd edin.": {
+    "EN": "Could not save the information. Please try again.",
+    "RU": "Не удалось сохранить данные. Попробуйте ещё раз."
+  },
+  "Seans tapılmadı": {
+    "EN": "Screening not found",
+    "RU": "Сеанс не найден"
+  },
+  "Bu seans mövcud deyil. Filmlər siyahısından başqa seans seçin.": {
+    "EN": "This screening is unavailable. Select another screening from the movie list.",
+    "RU": "Сеанс недоступен. Выберите другой сеанс из списка фильмов."
+  },
+  "Giriş": {
+    "EN": "Sign in",
+    "RU": "Вход"
+  },
+  "Qeydiyyat": {
+    "EN": "Sign up",
+    "RU": "Регистрация"
+  },
+  "Şifrə": {
+    "EN": "Password",
+    "RU": "Пароль"
+  },
+  "Şifrəni Təsdiqlə": {
+    "EN": "Confirm password",
+    "RU": "Подтвердите пароль"
+  },
+  "Şifrəni unutmusunuz?": {
+    "EN": "Forgot password?",
+    "RU": "Забыли пароль?"
+  },
+  "Burada yenisiniz?": {
+    "EN": "New here?",
+    "RU": "Вы здесь впервые?"
+  },
+  "Giriş məlumatları düzgün deyil.": {
+    "EN": "Incorrect login details.",
+    "RU": "Неверные данные для входа."
+  },
+  "Qeydiyyat uğurla başa çatdı": {
+    "EN": "Registration completed successfully",
+    "RU": "Регистрация прошла успешно"
+  },
+  "Daxil Ola Bilərsiz": {
+    "EN": "You can now sign in",
+    "RU": "Теперь вы можете войти"
+  },
+  "Kişi": {
+    "EN": "Male",
+    "RU": "Мужской"
+  },
+  "Qadın": {
+    "EN": "Female",
+    "RU": "Женский"
+  },
+  "Telefon": {
+    "EN": "Phone",
+    "RU": "Телефон"
+  },
+  "Elektron poçt": {
+    "EN": "Email",
+    "RU": "Электронная почта"
+  },
+  "Email": {
+    "EN": "Email",
+    "RU": "Электронная почта"
+  },
+  "Ad": {
+    "EN": "First name",
+    "RU": "Имя"
+  },
+  "Soyad": {
+    "EN": "Last name",
+    "RU": "Фамилия"
+  },
+  "Mesaj": {
+    "EN": "Message",
+    "RU": "Сообщение"
+  },
+  "Doğru Email Daxil Edin": {
+    "EN": "Enter a valid email",
+    "RU": "Введите корректный email"
+  },
+  "Zəhmət Olmasa Email Daxil Edin": {
+    "EN": "Please enter your email",
+    "RU": "Введите email"
+  },
+  "Zəhmət Olmasa Şifrə Daxil Edin": {
+    "EN": "Please enter your password",
+    "RU": "Введите пароль"
+  },
+  "Adınızı Daxil Edin": {
+    "EN": "Enter your first name",
+    "RU": "Введите имя"
+  },
+  "Soyadınızı Daxil Edin": {
+    "EN": "Enter your last name",
+    "RU": "Введите фамилию"
+  },
+  "Şifrə Daxil Edin": {
+    "EN": "Enter a password",
+    "RU": "Введите пароль"
+  },
+  "Şifrəni Yenidən Daxil Edin": {
+    "EN": "Enter your password again",
+    "RU": "Повторите пароль"
+  },
+  "Doğru tarix daxil edin": {
+    "EN": "Enter a valid date",
+    "RU": "Введите корректную дату"
+  },
+  "Telefon Nömrəsi Daxil Edin": {
+    "EN": "Enter your phone number",
+    "RU": "Введите номер телефона"
+  },
+  "Ad, email və mesaj xanalarını doldurun": {
+    "EN": "Fill in your name, email and message",
+    "RU": "Заполните имя, email и сообщение"
+  },
+  "Müraciətiniz qeydə alındı": {
+    "EN": "Your message has been received",
+    "RU": "Ваше обращение принято"
+  },
+  "Bilet sifarişi üçün": {
+    "EN": "For ticket bookings",
+    "RU": "Для заказа билетов"
+  },
+  "Reklam yerləşdirilməsi üçün": {
+    "EN": "For advertising",
+    "RU": "Для размещения рекламы"
+  },
+  "Təklif və müraciətlər": {
+    "EN": "Suggestions and enquiries",
+    "RU": "Предложения и обращения"
+  },
+  "Göndər": {
+    "EN": "Send",
+    "RU": "Отправить"
+  },
+  "Imaxda Super Gün": {
+    "EN": "IMAX Super Day",
+    "RU": "Супердень IMAX"
+  },
+  "Səhər Tarifi": {
+    "EN": "Morning rate",
+    "RU": "Утренний тариф"
+  },
+  "Tələbə Tarifi": {
+    "EN": "Student rate",
+    "RU": "Студенческий тариф"
+  },
+  "Super Gün": {
+    "EN": "Super Day",
+    "RU": "Супердень"
+  },
+  "Ailə Tarifi": {
+    "EN": "Family rate",
+    "RU": "Семейный тариф"
+  },
+  "AD GÜNÜ": {
+    "EN": "BIRTHDAY",
+    "RU": "ДЕНЬ РОЖДЕНИЯ"
+  },
+  "Kinoteatr tapılmadı": {
+    "EN": "Cinema not found",
+    "RU": "Кинотеатр не найден"
+  },
+  "Kinoteatrlara qayıt": {
+    "EN": "Back to cinemas",
+    "RU": "Вернуться к кинотеатрам"
+  },
+  "Səhifə tapılmadı": {
+    "EN": "Page not found",
+    "RU": "Страница не найдена"
+  },
+  "Ünvan səhv yazılmış və ya səhifə silinmiş ola bilər.": {
+    "EN": "The address may be incorrect or the page may have been removed.",
+    "RU": "Адрес указан неверно или страница удалена."
+  },
+  "Ana səhifəyə qayıt": {
+    "EN": "Back to home",
+    "RU": "На главную"
+  },
+  "Ana səhifə": {
+    "EN": "Home",
+    "RU": "Главная"
+  },
+  "Məlumatları yükləmək mümkün olmadı. Yenidən cəhd edin.": {
+    "EN": "Could not load data. Please try again.",
+    "RU": "Не удалось загрузить данные. Попробуйте ещё раз."
+  },
+  "Məlumatlar yüklənir": {
+    "EN": "Loading",
+    "RU": "Загрузка"
+  },
+  "Məlumatlar yüklənir…": {
+    "EN": "Loading…",
+    "RU": "Загрузка…"
+  },
+  "Məlumat yüklənmədi": {
+    "EN": "Failed to load data",
+    "RU": "Не удалось загрузить данные"
+  },
+  "Yenidən cəhd et": {
+    "EN": "Try again",
+    "RU": "Попробовать снова"
+  },
+  "Saat": {
+    "EN": "Time",
+    "RU": "Время"
+  },
+  "Film": {
+    "EN": "Movie",
+    "RU": "Фильм"
+  },
+  "Bilet": {
+    "EN": "Ticket",
+    "RU": "Билет"
+  },
+  "Sifreler eyni deyil": {
+    "EN": "Passwords do not match",
+    "RU": "Пароли не совпадают"
+  },
+  "Vaxt Daxil Edin": {
+    "EN": "Enter a date",
+    "RU": "Введите дату"
+  },
+  "Email Daxil Edin": {
+    "EN": "Enter your email",
+    "RU": "Введите email"
+  },
+  "Bilet neçəyədir?": {
+    "EN": "How much is a ticket?",
+    "RU": "Сколько стоит билет?"
+  },
+  "Biletin qiyməti həftənin günündən, vaxtından və formatından asılı olaraq dəyişə bilər. Bu səbəbdən ana səhifədəki cədvəldən istədiyiniz filmə keçid edərək aktual qiymətlərlə tanış ola bilərsiniz.": {
+    "EN": "Ticket prices depend on the day, time and format. Select a movie from the home page schedule to see its current prices.",
+    "RU": "Цена зависит от дня недели, времени и формата. Выберите фильм в расписании на главной странице, чтобы увидеть актуальные цены."
+  },
+  "\"Love seats\" nədir?": {
+    "EN": "What are love seats?",
+    "RU": "Что такое love seats?"
+  },
+  "Bu, sevgililər üçün nəzərdə tutulmuş ikili oturacaqlardır. Bir \"love seats\"in qiymətinə iki yer əldə edirsiniz.": {
+    "EN": "These are double seats for couples. The price of one love seat includes two places.",
+    "RU": "Это двойные места для пар. Стоимость одного love seat включает два места."
+  },
+  "Mənim yaşım filmin yaş reytinqinə uyğun deyilsə, ona baxa bilərəm?": {
+    "EN": "Can I watch a film if I do not meet its age rating?",
+    "RU": "Можно ли посмотреть фильм, если мой возраст не соответствует рейтингу?"
+  },
+  "Azərbaycan Respublikasının \"Kinematoqrafiya haqqında\" Qanunun 40.2.2-2-ci maddəsinə görə, yaş təsnifatı təmin edilmədən və müvafiq yaş kateqoriyasına uyğun işarələnmədən informasiya məhsullarının yayımına icazə qadağandır. Bu qanunvericilik aktlarına əsasən, kinoteatrlar filmlərin yaş məhdudiyyətlərinə riayət etməli və yaşı uyğun olmayan şəxslərin müvafiq filmlərə baxmasına icazə verməməlidirlər. Yalnız valideynin müşayiəti ilə bu mümkündür.": {
+    "EN": "According to the age classification rules described by the cinema, viewers must meet the film’s age rating. Parental accompaniment is required for the exception described here.",
+    "RU": "Согласно указанным кинотеатром правилам возрастной классификации, зрители должны соответствовать возрастному рейтингу фильма. Для описанного здесь исключения необходимо сопровождение родителя."
+  },
+  "Özümüzlə yemək gətirə bilərik?": {
+    "EN": "Can we bring our own food?",
+    "RU": "Можно ли приносить свою еду?"
+  },
+  "Biz kinoteatrın əmlakına, o cümlədən oturacaqlara və xalçaya ləkə sala biləcək məhsullara, eləcə də onların keyfiyyətinə görə məsuliyyəti daşıya bilmədiyimiz üçün kinoteatrdan kənarda alınmış qida məhsulları ilə zala girişə icazə vermirik. Kinobarımızda satılan bütün məhsullar sertifikatlaşdırılıb və tam təhlükəsizdir.": {
+    "EN": "Food bought outside the cinema is not permitted because it may stain seats and carpets and the cinema cannot take responsibility for its quality. The cinema bar offers certified products.",
+    "RU": "Еда, купленная вне кинотеатра, не разрешена: она может испачкать кресла и ковры, а кинотеатр не отвечает за её качество. В кинобаре продаются сертифицированные продукты."
+  },
+  "Sizdə endirimlər varmı?": {
+    "EN": "Do you offer discounts?",
+    "RU": "Есть ли скидки?"
+  },
+  "Bəli, var. Bununla bağlı ətraflı məlumatı saytımızdakı \"Aksiya\" bölməsindən əldə edə bilərsiniz.": {
+    "EN": "Yes. See the Promotions section for details.",
+    "RU": "Да. Подробности доступны в разделе «Акции»."
+  },
+  "Patrul": {
+    "EN": "Patrol",
+    "RU": "Патруль"
+  },
+  "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.": {
+    "EN": "Patrol officers in Semey compete for a place in the presidential motorcade.",
+    "RU": "Патрульные Семея стремятся попасть в президентский кортеж."
+  },
+  "Sörfçü": {
+    "EN": "The Surfer",
+    "RU": "Сёрфер"
+  },
+  "Birləşmiş Ştatlarda bir neçə il yaşadıqdan sonra bir kişi doğma Avstraliya sahil şəhərinə qayıdır. Bir gün yeniyetmə oğlu ilə birlikdə sörf etməyə gedir, lakin orada sörfçülərdən ibarət bir dəstə ilə qarşıdurma yaşayır. Kişi bu dəstə ilə amansız bir mübarizəyə girir.": {
+    "EN": "A father returns to Australia and clashes with local surfers while visiting the beach with his son.",
+    "RU": "Вернувшийся в Австралию отец вступает в конфликт с местными сёрферами."
+  },
+  "Marakuda": {
+    "EN": "Marakuda",
+    "RU": "Маракуда"
+  },
+  "Başçının oğlu Marakuda əsl döyüşçü olmalı idi, lakin o, ov etməyi bacarmırdı və atasını məyus edirdi. Marakuda təkbaşına meşəyə yollanır və orada müqəddəs Tink quşunu tapır. Tink ona heyvanlar və quşların dilini anlama qabiliyyəti bəxş edir. Marakuda və Tink şərəflə kəndə qayıdırlar. Lakin oğlan bilmir ki, ənənəyə görə müqəddəs quş tayfanın rifahı üçün qurban verilməlidir.": {
+    "EN": "Marakuda befriends a sacred bird, unaware that his tribe intends to sacrifice it.",
+    "RU": "Маракуда дружится со священной птицей, которую племя намерено принести в жертву."
+  },
+  "İldırımsaçanlar": {
+    "EN": "Thunderbolts*",
+    "RU": "Громовержцы*"
+  },
+  "Antiqəhrəmanlardan ibarət bir komanda hökumətin əmri ilə tapşırıqlara yollanır.": {
+    "EN": "A team of antiheroes carries out government missions.",
+    "RU": "Команда антигероев выполняет правительственные задания."
+  },
+  "Tağıyev: Çar": {
+    "EN": "Taghiyev: The Tsar",
+    "RU": "Тагиев: Царь"
+  },
+  "1888-ci ilin payızında bütün Bakı Çar III Aleksandrın səfərinə hazırlaşır. Artıq milyonçu olmuş, Bakı Şəhər Dumasının üzvü seçilmiş Hacı Zeynalabdin Tağıyev cəmiyyətdə nüfuz və status uğrunda mübarizə aparır. Şəhər meri Orlovski mövqeyindən istifadə edərək özünə qəsd etmiş Teymurbəyovun neft sahəsini ələ keçirməyə çalışır. Eyni zamanda Hacının böyük oğlu İsmayıl generalın qızı Nurcahan Ərəblinski ilə tanış olur və onunla evlənməyi planlaşdırır.": {
+    "EN": "As Baku prepares for the Tsar’s visit, Taghiyev faces political and family challenges.",
+    "RU": "Баку готовится к визиту царя, а Тагиев сталкивается с политическими и семейными трудностями."
+  },
+  "Minecraft kinoda": {
+    "EN": "A Minecraft Movie",
+    "RU": "Minecraft в кино"
+  },
+  "Dörd autsayder sirli portal vasitəsilə qəribə kubik Möcüzələr ölkəsinə düşür. Evə qayıtmaq üçün onlar sehrli bir kvestdən keçməli və ustad Stiv adlı birisi ilə birlikdə işləməlidirlər.": {
+    "EN": "Four outsiders enter a cubic world and join Steve on a quest to return home.",
+    "RU": "Четверо чужаков попадают в кубический мир и вместе со Стивом ищут путь домой."
+  },
+  "Bəlkə də": {
+    "EN": "Maybe",
+    "RU": "Быть может"
+  },
+  "Yaxınlarını itirmiş iki insanın qəfil tanışlığı və zaman maşını ilə keçmişə qayıtmaq arzusu üzərində qurulan elmi-fantastik hekayədir. İxtiraçı atasına verdiyi sözü, Mələk isə nişanlısını xilas etmək istəyir. Amma zaman maşınını hazırlamağa yaxın olduqca, onları gözlənilməz hadisələr və o dünyadan gələn ruhlar narahat etməyə başlayır. Və əsl çətinlik bundan sonra başlayır...": {
+    "EN": "Two grieving strangers pursue time travel, facing unexpected events and spirits.",
+    "RU": "Двое переживших утрату людей пытаются вернуться в прошлое и сталкиваются с духами."
+  },
+  "Qisas 2": {
+    "EN": "The Accountant 2",
+    "RU": "Расплата 2"
+  },
+  "Xəzinədarlıq agenti Meribeth Medina keçmiş rəhbərinin qatillərini tapmağa çalışır. Qadın dahiyanə riyaziyyatçı və killer bacarıqları olan Kristian Vulfa müraciət edir. Kris qardaşı Brax ilə birləşir və tədricən bu çətin tapmacanın bütün hissələrini bir yerə toplamağa başlayır. Üçlük həqiqətə yaxınlaşdıqca, onları dayandırmaq istəyən amansız qatillərin diqqətini daha çox cəlb edirlər.": {
+    "EN": "Christian and his brother help investigate a murder while ruthless killers pursue them.",
+    "RU": "Кристиан и его брат помогают расследовать убийство, рискуя стать мишенями наёмников."
+  },
+  "DOĞMA TORPAQ": {
+    "EN": "Native Land",
+    "RU": "Родная земля"
+  },
+  "1992-ci il. Müstəqil Azərbaycan Qarabağda separatçılara qarşı mübarizə aparır. Jurnalist Miranda Qafqaz bəbiri haqqında sənədli film çəkmək üçün Londondan Azərbaycana gəlir. Tale onu kəşfiyyatçı Emillə bir araya gətirir. Onlar birlikdə çətin sınaqlardan keçirlər, bu sınaqlar zamanı Miranda Qafqaz bəbiri və Azərbaycanın müasir tarixinin faciəli səhifələri haqqında çox şey öyrənir.": {
+    "EN": "A journalist filming in Azerbaijan meets a scout amid the events of 1992.",
+    "RU": "Журналистка, снимающая фильм в Азербайджане, встречает разведчика на фоне событий 1992 года."
+  },
+  "Həvəskar": {
+    "EN": "The Amateur",
+    "RU": "Любитель"
+  },
+  "Çarlz Heller — həyat yoldaşı Londonda terror aktı zamanı həlak olmuş Mərkəzi Kəşfiyyat İdarəsinin (MKİ) kriptoqrafıdır. Lakin rəhbərliyi istintaqı ləngitdiyinə görə, Heller terrorçuları özü axtarmağa qərar verir. Lazımi bacarıqları olmadığı üçün o, agentliyi şantaj edərək xüsusi təlimə göndərilməsini tələb edir.": {
+    "EN": "A CIA cryptographer seeks his wife’s killers after his superiors delay the investigation.",
+    "RU": "Криптограф ЦРУ сам ищет убийц жены после промедления руководства."
+  },
+  "Drop": {
+    "EN": "Drop",
+    "RU": "Дроп"
+  },
+  "Dul Vaylet uzun illərdən sonra ilk görüşünə gedir və bir az həyəcanlanır. Lakin ən bədbin gözləntilərə baxmayaraq, əvvəlcə hər şey əla gedir. Hətta onun yoldaşı Henri də olduqca xoş və maraqlı söhbət yoldaşı çıxır. Ancaq qəfildən qadının telefonuna anonim mesajlar gəlməyə başlayır.": {
+    "EN": "A widow’s promising first date takes a sinister turn when anonymous messages arrive.",
+    "RU": "Свидание вдовы принимает зловещий оборот после анонимных сообщений."
+  },
+  "Hozu 007": {
+    "EN": "Hozu 007",
+    "RU": "Хозу 007"
+  },
+  "Partidən qızın qəfil animatorlar tərəfindən qaçırılması hər şeyi hərəkətə gətirir və hamı panikaya düşür. Sərvət dünyanın ən yaxşı agentlərini toplayaraq qızın axtarışına başlayır. Bu zaman təsadüfən hadisələrin içinə düşən sadə kənd adamı Hozu da özünü \"007 agenti\" kimi xəyal edərək, peşəkarlarla birlikdə qızın axtarışına çıxır. Hozunun sadəlövhlüyü və Sərvətin ciddi dünyası arasında yaranan bu kontrast hekayəyə maraqlı bir gülüş və macəra qatır.": {
+    "EN": "An ordinary villager joins professional agents searching for a kidnapped girl.",
+    "RU": "Простой сельчанин присоединяется к агентам, разыскивающим похищенную девушку."
+  },
+  "Sübhə Qədər": {
+    "EN": "Until Dawn",
+    "RU": "Дожить до рассвета"
+  },
+  "Bir il keçib ki, Kloverin bacısı Melani sirli şəraitdə yoxa çıxıb. Cavab tapmaq üçün o, dostları ilə birlikdə axtarışa çıxır. Tərk edilmiş bir mərkəzi araşdırarkən, onlar maskalı bir qatil ilə qarşılaşırlar.\n\nDostları bir-bir ölür, lakin eyni axşamın əvvəlində yenidən oyanırlar və hər şeyi təkrar yaşayırlar. Zaman döngəsində ilişib qalan dostlar kabusu dəfələrlə yaşamalı olurlar. Hər dəfə təkrarlandıqca təhlükə daha dəhşətli olur. Ümid azalır və onlar başa düşürlər ki, xilas olmaq üçün yeganə yolları sübhə qədər yaşamaqdır.": {
+    "EN": "Friends searching for a missing woman become trapped in a deadly time loop.",
+    "RU": "Друзья ищут пропавшую девушку и попадают в смертельную временную петлю."
+  },
+  "Komediya": {
+    "EN": "Comedy",
+    "RU": "Комедия"
+  },
+  "Trillerlər": {
+    "EN": "Thriller",
+    "RU": "Триллер"
+  },
+  "Cizgi filmi": {
+    "EN": "Animation",
+    "RU": "Мультфильм"
+  },
+  "Fantastika": {
+    "EN": "Science fiction",
+    "RU": "Фантастика"
+  },
+  "Döyüş": {
+    "EN": "Action",
+    "RU": "Боевик"
+  },
+  "Tarixi": {
+    "EN": "Historical",
+    "RU": "Исторический"
+  },
+  "Bioqrafik": {
+    "EN": "Biography",
+    "RU": "Биография"
+  },
+  "Ailəvi": {
+    "EN": "Family",
+    "RU": "Семейный"
+  },
+  "Kriminal": {
+    "EN": "Crime",
+    "RU": "Криминал"
+  },
+  "Drama": {
+    "EN": "Drama",
+    "RU": "Драма"
+  },
+  "Dəhşət": {
+    "EN": "Horror",
+    "RU": "Ужасы"
+  },
+  "Macəra": {
+    "EN": "Adventure",
+    "RU": "Приключения"
+  },
+  "Azərbaycan": {
+    "EN": "Azerbaijan",
+    "RU": "Азербайджан"
+  },
+  "Rusiya": {
+    "EN": "Russia",
+    "RU": "Россия"
+  },
+  "Qazaxıstan": {
+    "EN": "Kazakhstan",
+    "RU": "Казахстан"
+  },
+  "Avstraliya": {
+    "EN": "Australia",
+    "RU": "Австралия"
+  },
+  "Amerika Birləşmiş Ştatları": {
+    "EN": "United States",
+    "RU": "США"
+  },
+  "Böyük Britaniya": {
+    "EN": "United Kingdom",
+    "RU": "Великобритания"
+  },
+  "Qisasçılar: Final (Encore)": {
+    "EN": "Avengers: Endgame (Encore)",
+    "RU": "Мстители: Финал (Encore)"
+  },
+  "Qisasçılar və müttəfiqləri Thanosun dağıdıcı əməllərinin nəticələrini dəyişmək üçün yenidən birləşirlər.": {
+    "EN": "The Avengers reunite to undo the consequences of Thanos’s actions.",
+    "RU": "Мстители объединяются, чтобы исправить последствия действий Таноса."
+  },
+  "Digger": {
+    "EN": "Digger",
+    "RU": "Диггер"
+  },
+  "Digger öz hərəkətlərinin yaratdığı qlobal təhlükəni aradan qaldırmaq üçün yola çıxır.": {
+    "EN": "Digger sets out to resolve a global threat he created.",
+    "RU": "Диггер пытается устранить созданную им глобальную угрозу."
+  },
+  "Resident Evil": {
+    "EN": "Resident Evil",
+    "RU": "Обитель зла"
+  },
+  "Ucqar xəstəxanaya göndərilən kuryer virusun yayılması ilə üzləşir. Bağlama çatdırmaq tapşırığı sağ qalmaq mübarizəsinə çevrilir.": {
+    "EN": "A courier’s hospital delivery becomes a fight for survival amid a viral outbreak.",
+    "RU": "Доставка в больницу оборачивается для курьера борьбой за выживание во время вспышки вируса."
+  },
+  "Vəhşi heyvanın ürəyi": {
+    "EN": "Heart of the Beast",
+    "RU": "Сердце зверя"
+  },
+  "Təyyarə qəzasından sağ çıxan Ceyms və iti Odin Alyaskanın çətin təbiət şəraitindən birlikdə qurtulmağa çalışırlar.": {
+    "EN": "James and his dog Odin struggle to survive in Alaska after a plane crash.",
+    "RU": "Джеймс и его пёс Один пытаются выжить на Аляске после авиакатастрофы."
+  },
+  "Veritinin gizli gündəliyi": {
+    "EN": "Verity",
+    "RU": "Верити"
+  },
+  "Louen məşhur yazıçı Veritinin yarımçıq romanlarını tamamlamaq işini qəbul edir. Tapdığı şəxsi qeydlər onu ailənin gizli keçmişi ilə üzləşdirir.": {
+    "EN": "A writer completing Verity’s novels discovers unsettling family secrets.",
+    "RU": "Писательница, завершающая романы Верити, узнаёт тревожные семейные тайны."
+  },
+  "Mənim Profilim": {
+    "EN": "My profile",
+    "RU": "Мой профиль"
+  },
+  "Mənim Biletlərim": {
+    "EN": "My tickets",
+    "RU": "Мои билеты"
+  },
+  "Şifrəni Dəyiş": {
+    "EN": "Change password",
+    "RU": "Изменить пароль"
+  },
+  "Telefon nömrəsini dəyiş": {
+    "EN": "Change phone number",
+    "RU": "Изменить номер телефона"
+  },
+  "E-poçtu Dəyiş": {
+    "EN": "Change email",
+    "RU": "Изменить почту"
+  },
+  "Ad Soyad": {
+    "EN": "Full name",
+    "RU": "Имя и фамилия"
+  },
+  "Telefon nömrəsi": {
+    "EN": "Phone number",
+    "RU": "Номер телефона"
+  },
+  "Doğum tarixi": {
+    "EN": "Date of birth",
+    "RU": "Дата рождения"
+  },
+  "Çıxış": {
+    "EN": "Log out",
+    "RU": "Выйти"
+  },
+  "Hesabı Sil": {
+    "EN": "Delete account",
+    "RU": "Удалить аккаунт"
+  },
+  "Dəyiş": {
+    "EN": "Change",
+    "RU": "Изменить"
+  },
+  "Maksimum ölçü": {
+    "EN": "Maximum size",
+    "RU": "Максимальный размер"
+  },
+  "Hələ biletiniz yoxdur.": {
+    "EN": "You have no tickets yet.",
+    "RU": "У вас пока нет билетов."
+  },
+  "Filmlərə bax": {
+    "EN": "Browse movies",
+    "RU": "Смотреть фильмы"
+  },
+  "Cari şifrə": {
+    "EN": "Current password",
+    "RU": "Текущий пароль"
+  },
+  "Yeni şifrə": {
+    "EN": "New password",
+    "RU": "Новый пароль"
+  },
+  "Ləğv et": {
+    "EN": "Cancel",
+    "RU": "Отмена"
+  },
+  "Sil": {
+    "EN": "Delete",
+    "RU": "Удалить"
+  },
+  "Yerli profil: məlumatlar yalnız bu brauzerdə saxlanılır.": {
+    "EN": "Local profile: data is saved only in this browser.",
+    "RU": "Локальный профиль: данные хранятся только в этом браузере."
+  }
+}

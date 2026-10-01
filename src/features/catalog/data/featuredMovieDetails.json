@@ -1,0 +1,230 @@
+{
+  "featured-avengers-endgame": {
+    "id": "6a968ffcbd57047b661670b9",
+    "name": "Qisasçılar: Final (Encore)",
+    "description": "Qisasçılar və müttəfiqləri Thanosun dağıdıcı əməllərinin nəticələrini dəyişmək üçün yenidən birləşirlər.",
+    "iticketLink": null,
+    "country": "Amerika Birləşmiş Ştatları",
+    "director": "Entony Russo, Co Russo",
+    "actors": [
+      "Robert Dauni",
+      "Kris Evans",
+      "Mark Ruffalo",
+      "Kris Hemsvord",
+      "Skarlet Yoxanson",
+      "Ceremi Renner",
+      "Don Çidl",
+      "Pol Radd",
+      "Bri Larson"
+    ],
+    "genres": [
+      {
+        "id": "67ef8ef06f500c02f5d9186d",
+        "title": "Macəra"
+      },
+      {
+        "id": "67ef8ea96f500c02f5d91829",
+        "title": "Drama"
+      },
+      {
+        "id": "67693af4c8bf5553b2cd258e",
+        "title": "Fantastika"
+      },
+      {
+        "id": "67693b21c8bf5553b2cd258f",
+        "title": "Döyüş"
+      }
+    ],
+    "movieId": 0,
+    "duration": 190,
+    "firstScreeningDate": "2026-09-26T00:00:00.000+04:00",
+    "lastScreeningDate": "2027-09-26T00:00:00.000+04:00",
+    "year": 2019,
+    "ageLimit": "EIGHTEEN",
+    "languages": [
+      "EN",
+      "TR",
+      "RU"
+    ],
+    "image": "1788252125809_FB_IMG_1787673986414.jpg.jpeg",
+    "subtitles": [
+      "AZ"
+    ],
+    "trailerUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EONoJWqpqL0",
+    "active": true,
+    "preSale": false,
+    "sourceUrl": "https://new.parkcinema.az/az/movie/6a968ffcbd57047b661670b9"
+  },
+  "featured-digger": {
+    "id": "6a9a67704fcc303e340c9c30",
+    "name": "Digger",
+    "description": "Digger öz hərəkətlərinin yaratdığı qlobal təhlükəni aradan qaldırmaq üçün yola çıxır.",
+    "iticketLink": null,
+    "country": "Böyük Britaniya",
+    "director": "Alexandro Qonsales İnyarritu",
+    "actors": [
+      "Tom Kruz",
+      "Cessi Plemons",
+      "Con Qudman"
+    ],
+    "genres": [
+      {
+        "id": "67ef8ea96f500c02f5d91829",
+        "title": "Drama"
+      },
+      {
+        "id": "67729bcbbf13b4256e98c0ff",
+        "title": "Komediya"
+      }
+    ],
+    "movieId": 0,
+    "duration": 110,
+    "firstScreeningDate": "2026-10-01T00:00:00.000+04:00",
+    "lastScreeningDate": "2027-10-01T00:00:00.000+04:00",
+    "year": 2026,
+    "ageLimit": "EIGHTEEN",
+    "languages": [
+      "RU"
+    ],
+    "image": "1788503881489_Screenshot_2026-09-04_103752.png",
+    "subtitles": [
+      "AZ"
+    ],
+    "trailerUrl": "",
+    "youtubeUrl": "http://youtube.com/watch?v=qMd8SbLDaDk",
+    "active": true,
+    "preSale": true,
+    "sourceUrl": "https://new.parkcinema.az/az/movie/6a9a67704fcc303e340c9c30"
+  },
+  "featured-resident-evil": {
+    "id": "6a9a666b4fcc303e340c9c24",
+    "name": "Resident Evil",
+    "description": "Ucqar xəstəxanaya göndərilən kuryer virusun yayılması ilə üzləşir. Bağlama çatdırmaq tapşırığı sağ qalmaq mübarizəsinə çevrilir.",
+    "iticketLink": null,
+    "country": "Amerika Birləşmiş Ştatları",
+    "director": "Zak Kreqger",
+    "actors": [
+      "Ostin Abrams",
+      "Pol Uolter Hauzer"
+    ],
+    "genres": [
+      {
+        "id": "67719f3a250ee22dac939c7c",
+        "title": "Dəhşət"
+      }
+    ],
+    "movieId": 0,
+    "duration": 100,
+    "firstScreeningDate": "2026-09-24T00:00:00.000+04:00",
+    "lastScreeningDate": "2027-09-24T00:00:00.000+04:00",
+    "year": 2026,
+    "ageLimit": "EIGHTEEN",
+    "languages": [
+      "EN",
+      "TR",
+      "RU"
+    ],
+    "image": "1788503626971_Screenshot_2026-09-04_103332.png",
+    "subtitles": [
+      "AZ"
+    ],
+    "trailerUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EVwpPFvFEsc",
+    "active": true,
+    "preSale": false,
+    "sourceUrl": "https://new.parkcinema.az/az/movie/6a9a666b4fcc303e340c9c24"
+  },
+  "featured-heart-of-the-beast": {
+    "id": "6a969148bd57047b661670c0",
+    "name": "Vəhşi heyvanın ürəyi",
+    "description": "Təyyarə qəzasından sağ çıxan Ceyms və iti Odin Alyaskanın çətin təbiət şəraitindən birlikdə qurtulmağa çalışırlar.",
+    "iticketLink": null,
+    "country": "Amerika Birləşmiş Ştatları",
+    "director": "David Eyer",
+    "actors": [
+      "Bred Pitt",
+      "C.K. Simmons"
+    ],
+    "genres": [
+      {
+        "id": "67ef8ef06f500c02f5d9186d",
+        "title": "Macəra"
+      },
+      {
+        "id": "67ef8ea96f500c02f5d91829",
+        "title": "Drama"
+      },
+      {
+        "id": "67693b21c8bf5553b2cd258f",
+        "title": "Döyüş"
+      },
+      {
+        "id": "67729bf2bf13b4256e98c15c",
+        "title": "Trillerlər"
+      }
+    ],
+    "movieId": 0,
+    "duration": 110,
+    "firstScreeningDate": "2026-09-24T00:00:00.000+04:00",
+    "lastScreeningDate": "2027-09-24T00:00:00.000+04:00",
+    "year": 2026,
+    "ageLimit": "EIGHTEEN",
+    "languages": [
+      "RU"
+    ],
+    "image": "1788252461068_Screenshot_2026-09-01_124703.png",
+    "subtitles": [
+      "AZ"
+    ],
+    "trailerUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6vzvdq74aJo",
+    "active": true,
+    "preSale": false,
+    "sourceUrl": "https://new.parkcinema.az/az/movie/6a969148bd57047b661670c0"
+  },
+  "featured-verity": {
+    "id": "6a9a686e4fcc303e340c9c31",
+    "name": "Veritinin gizli gündəliyi",
+    "description": "Louen məşhur yazıçı Veritinin yarımçıq romanlarını tamamlamaq işini qəbul edir. Tapdığı şəxsi qeydlər onu ailənin gizli keçmişi ilə üzləşdirir.",
+    "iticketLink": null,
+    "country": "Amerika Birləşmiş Ştatları",
+    "director": "Maykl Şouolter",
+    "actors": [
+      "Enn Hetuey",
+      "Breydi Vaqner"
+    ],
+    "genres": [
+      {
+        "id": "67ef8ea96f500c02f5d91829",
+        "title": "Drama"
+      },
+      {
+        "id": "67729bf2bf13b4256e98c15c",
+        "title": "Trillerlər"
+      },
+      {
+        "id": "67ef8f746f500c02f5d9190b",
+        "title": "Kriminal"
+      }
+    ],
+    "movieId": 0,
+    "duration": 0,
+    "firstScreeningDate": "2026-10-08T00:00:00.000+04:00",
+    "lastScreeningDate": "2027-09-11T04:00:00.000+04:00",
+    "year": 2026,
+    "ageLimit": "EIGHTEEN",
+    "languages": [
+      "RU"
+    ],
+    "image": "1788504153950_Screenshot_2026-09-04_104226.png",
+    "subtitles": [
+      "AZ"
+    ],
+    "trailerUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FuWxUJYdEII",
+    "active": true,
+    "preSale": false,
+    "sourceUrl": "https://new.parkcinema.az/az/movie/6a9a686e4fcc303e340c9c31"
+  }
+}
