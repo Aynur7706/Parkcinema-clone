@@ -4,6 +4,7 @@ import MobileNavigation from "./MobileNavigation.jsx";
 import useMobileNavigation from "../hooks/useMobileNavigation.js";
 import LanguageSwitcher from "./LanguageSwitcher.jsx";
 import { Link, useLocation } from 'react-router';
+import { createPortal } from 'react-dom';
 
 function SiteHeader() {
   useLanguage();
@@ -12,16 +13,18 @@ function SiteHeader() {
   return ( 
 
     <div className={`cinema-site-header z-100 bg-transparent absolute top-0 right-0 left-0 flex items-center justify-between w-full mx-auto lg:w-[90%] ${isHome ? 'cinema-home-header' : ''}`}>
-        <MobileMenuButton onToggle={toggleMenu} isMenuOpen={isMenuOpen} />
-        <MobileNavigation  isMenuOpen = {isMenuOpen} toggleMenu={toggleMenu}/>
+        {createPortal(<>
+          <MobileMenuButton onToggle={toggleMenu} isMenuOpen={isMenuOpen} />
+          <MobileNavigation isMenuOpen={isMenuOpen} toggleMenu={toggleMenu}/>
+        </>, document.body)}
         
-        <div className='cinema-header-main w-full flex items-center justify-center md:justify-start gap-0 lg:gap-36'>
+        <div className='cinema-header-main w-full flex items-center justify-center lg:justify-start gap-0 lg:gap-36'>
             <div className='cinema-header-logo w-[150px] h-20 shrink-0'>
                 <Link to={'/'}>
                     <img className='w-full h-full object-contain' src="https://new.parkcinema.az/images/logo.svg" alt="" />           
                 </Link>
             </div>
-            <div className='hidden md:block'>
+            <div className='hidden lg:block'>
                 <menu className='cinema-header-links flex items-center gap-[60px] text-[#d9dadb] whitespace-nowrap'>
                     <Link className='hover:text-[#D52B1E] duration-300 cursor-pointer ' to={'/theatres'}>{t(" Kinoteatrlar ")}</Link>
                     <Link className='hover:text-[#D52B1E] duration-300 cursor-pointer ' to={'/actions'}>{t(" Aksiyalar ")}</Link>

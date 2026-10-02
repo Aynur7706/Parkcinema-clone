@@ -7,13 +7,13 @@ export const promotions = [
     },
     {
       id: "seher-tarifi",
-      description: "Hər gün saat 14:00-dək uşaqlar və ailənin hər üzvü üçün bilet 6 AZN, böyüklər üçün isə 7 AZN-dir. Üç nəfərlik ailə üçün ümumi qiymət 18 AZN təşkil edir.",
+      description: "Hər gün saat 14:00-dək uşaqlar və ailənin hər üzvü üçün bilet 4 AZN, böyüklər üçün isə 7 AZN-dir. Üç nəfərlik ailə üçün ümumi qiymət 18 AZN təşkil edir.",
       title : 'Səhər Tarifi',
       img : 'https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1738581039056_kino_seheri__aksiya__sayt_ucun.png&w=640&q=75'
     },
     {
       id: "telebe-tarifi",
-      description: "Tələbə biletinizi təqdim edərək filmə 10 AZN əvəzinə 8 AZN-ə baxa bilərsiniz.",
+      description: "Tələbə biletinizi təqdim edərək filmə 10 AZN əvəzinə 6 AZN-ə baxa bilərsiniz.",
       title : 'Tələbə Tarifi',
       img : 'https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1738579595976_telebe__tarifi_aksiya__sayt_ucun.png&w=640&q=75'
     },

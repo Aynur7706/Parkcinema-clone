@@ -9,7 +9,7 @@ function PageLoader() {
     return () => { document.body.style.overflow = previous; };
   }, []);
   return (
-    <div role="status" aria-label={t("Məlumatlar yüklənir")} className='z-[9999] fixed inset-0 bg-black flex items-center justify-center text-white'>
+    <div role="status" aria-label={t("Məlumatlar yüklənir")} className='z-[90] fixed inset-0 bg-black flex items-center justify-center text-white'>
        <img src={`${import.meta.env.BASE_URL}loading.gif`} alt="" className="w-[380px] max-w-full h-auto" />
        <span className="sr-only">{t("Məlumatlar yüklənir…")}</span>
     </div> 

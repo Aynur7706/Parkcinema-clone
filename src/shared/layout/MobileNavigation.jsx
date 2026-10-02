@@ -7,14 +7,14 @@ function MobileNavigation({isMenuOpen,toggleMenu}) {
   if (!isMenuOpen) return null;
 
   return (
-    <div id="cinema-mobile-menu" role="navigation" aria-label="Mobil menyu" onKeyDown={event => { if (event.key === 'Escape') toggleMenu(); }} className="cinema-mobile-panel md:hidden">
+    <div id="cinema-mobile-menu" role="navigation" aria-label="Mobil menyu" onClick={event => { if (event.target.closest('a[href]')) toggleMenu(); }} className="cinema-mobile-panel">
         <div className='py-2' onClick = {toggleMenu}>
             <div className=' bg-[#6B6B6B] w-[30%] h-1 mx-auto'></div>
         </div>
         <div className='grid grid-cols-2 p-3 gap-3'>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/_next/image?url=%2Ficons%2Fglasses.png&w=128&q=75" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/glasses.png` ,
                     title : t("Profil"),
                     style : "",
                     url : '/auth'
@@ -22,14 +22,14 @@ function MobileNavigation({isMenuOpen,toggleMenu}) {
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/_next/image?url=%2Ficons%2Fticket.png&w=128&q=75" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/ticket.png` ,
                     title : t("Mənim Biletim"),
                     style : ""
                 }
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/_next/image?url=%2Ficons%2Ffilm.png&w=128&q=75" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/film.png` ,
                     title : t("Kinoteatrlar"),
                     style : "col-span-2 justify-center",
                     url : '/theatres'
@@ -37,7 +37,7 @@ function MobileNavigation({isMenuOpen,toggleMenu}) {
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/_next/image?url=%2Ficons%2Falarm.png&w=128&q=75" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/alarm.png` ,
                     title : t("Aksiyalar"),
                     style : "col-span-2 justify-center",
                     url : '/actions'
@@ -45,7 +45,7 @@ function MobileNavigation({isMenuOpen,toggleMenu}) {
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/icons/call.svg" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/call.svg` ,
                     title : t("Əlaqə"),
                     style : "",
                     url : '/contact'
@@ -53,7 +53,7 @@ function MobileNavigation({isMenuOpen,toggleMenu}) {
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/icons/faq.svg" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/faq.svg` ,
                     title : 'FAQ',
                     style : "",
                     url : '/faq'
@@ -61,14 +61,14 @@ function MobileNavigation({isMenuOpen,toggleMenu}) {
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/icons/terms.svg" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/terms.svg` ,
                     title : t("Hüquqi Şərtlər"),
                     style : ""
                 }
             }/>
             <NavigationTile values={
                 {
-                    src : "https://new.parkcinema.az/images/google-play.svg" , 
+                    src : `${import.meta.env.BASE_URL}images/navigation/google-play.svg` ,
                     title : '',
                     style : ""
                 }

@@ -10,7 +10,7 @@ function LanguageSwitcher({display}) {
     setLanguage(event.target.value);
   }
   return (
-    <div className={`${display ? "block" : "hidden"} md:block`}>
+    <div className={`${display ? "block" : "hidden"} lg:block`}>
             <FormControl
             variant='standard'
             sx={{
@@ -30,9 +30,9 @@ function LanguageSwitcher({display}) {
                 disableUnderline
                 renderValue={(value) => {
                 const flagSrc = {
-                    AZE: 'https://new.parkcinema.az/icons/az-flag.svg',
-                    EN: 'https://new.parkcinema.az/icons/en-flag.svg',
-                    RU: 'https://new.parkcinema.az/icons/ru-flag.svg',
+                    AZE: `${import.meta.env.BASE_URL}images/navigation/az-flag.svg`,
+                    EN: `${import.meta.env.BASE_URL}images/navigation/en-flag.svg`,
+                    RU: `${import.meta.env.BASE_URL}images/navigation/ru-flag.svg`,
                 }[value];
 
                 return (
@@ -51,15 +51,15 @@ function LanguageSwitcher({display}) {
                 }}
             >
                 <MenuItem value="AZE" className="flex items-center gap-2">
-                <img src="https://new.parkcinema.az/icons/az-flag.svg" alt="" className="w-5 h-5" />
+                <img src={`${import.meta.env.BASE_URL}images/navigation/az-flag.svg`} alt="" className="w-5 h-5" />
                 <span>AZE</span>
                 </MenuItem>
                 <MenuItem value="EN" className="flex items-center gap-2">
-                <img src="https://new.parkcinema.az/icons/en-flag.svg" alt="" className="w-5 h-5" />
+                <img src={`${import.meta.env.BASE_URL}images/navigation/en-flag.svg`} alt="" className="w-5 h-5" />
                 <span>EN</span>
                 </MenuItem>
                 <MenuItem value="RU" className="flex items-center gap-2">
-                <img src="https://new.parkcinema.az/icons/ru-flag.svg" alt="" className="w-5 h-5" />
+                <img src={`${import.meta.env.BASE_URL}images/navigation/ru-flag.svg`} alt="" className="w-5 h-5" />
                 <span>RU</span>
                 </MenuItem>
             </Select>
